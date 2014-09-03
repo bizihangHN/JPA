@@ -1,1 +1,1 @@
-<h1 align="conter">hibernate jps test</h1>
+<h1 align="center">hibernate JPA test</h1>
