@@ -27,7 +27,7 @@ public class UserInfo implements Serializable {
 
 	@Column(name = "USER_NAME", length = 20)
 	private String userName;
-
+ 
 	@Column(name = "EMAIL", length = 64)
 	private String email;
 
