@@ -35,6 +35,7 @@ public class UserInfo implements Serializable {
 	private String blogURL;
 
 	public Integer getId() {
+		System.out.println("!");
 		return id;
 	}
 
