@@ -38,7 +38,8 @@ public class UserInfo implements Serializable {
 		System.out.println("!");
 		return id;
 	}
-
+	 
+	
 	public String getUserName() {
 		return userName;
 	}

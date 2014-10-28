@@ -12,8 +12,8 @@
 		<name>micmiu.com</name>
 		<url>http://www.micmiu.com</url>
 	</organization>
-	<developers>
-		<developer>
+	<developers>   
+		<developer>   
 			<id>Michael</id>
 			<name>Michael Sun</name>
 			<email>sjsky007@gmail.com</email>
