@@ -36,6 +36,7 @@ public class UserInfo implements Serializable {
 
 	public Integer getId() {
 		System.out.println("!");
+		int i = 0;
 		return id;
 	}
 	 
